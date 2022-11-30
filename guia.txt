@@ -1,0 +1,19 @@
+Seja muito Bem Vindo ao Teste de Datilografia!
+Esse teste tem como base os conceitos antigos de datilografia, no qual o indivíduo recebe um texto e deve ser capaz de reproduzir o mesmo em um determinado tempo.
+O objetivo deste teste não é que você se torne o "mestre da digitação" mas sim que você desafie seus limites e desenvola sua noção de digitação.
+Para isso temos algumas regras:
+>>>Você deve digitar o texto proposto em um tempo menor do que ***60*** segundos;
+>>>O texto só será aceito se todos os caracteres forem exatamente iguais aos mostrados em tela;
+>>>O teste consiste de 3 dificuldades(fácil, médio e difícil), cada qual com 3 níveis;
+>>>Cada nível representa um texto, a medida que o usuário vai acertando, os textos vão ficando mais difíceis;
+>>>O usuário pode se cadastrar e salvar o seu progresso de DIFICULDADE, dessa forma só será registrada a dificuldade em que o usuário se encontra;
+>>>Toda vez que um usuário fizer login ele deverá iniciar no 1o(primeiro) nível da dificuldade que parou;
+>>>Para inciar o teste de cada nível é preciso declarar que está pronto, isso é feito pressionando a tecla ENTER;
+>>>Após concluir o texto é exibido se você conseguiu digitar o texto dentro do limite de tempo;
+>>>Se você concluiu o texto dentro do limite de tempo é exibido sua perfomance, por meio do cálculo de PPM (palavras por minuto)
+>>>Se estiver efetuando o teste fora do limite de tempo, é exibido uma mensagem que o tempo esgotou;
+
+Divirta-se!!!
+
+Teste de Datilografia desenvolvido por:
+Fábio Augusto Dias Maciel, Gabriel Oliveira dos Santos, Gabriel Alves da Silva.
